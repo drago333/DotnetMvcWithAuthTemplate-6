@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'unibit-46420r-try-default-mvc-with-auth'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_916AC9EE214F46DEB16A032AE0E83853 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7887CAB44DFB4101BF9CF08338B22854 }}
           package: .
